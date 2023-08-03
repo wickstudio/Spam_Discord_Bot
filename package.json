@@ -1,0 +1,15 @@
+{
+    "name": "spam",
+    "version": "1.0.0",
+    "description": "A Discord bot that sends Quran verses at regular intervals.",
+    "main": "index.js",
+    "dependencies": {
+        "discord-oauth2": "^2.11.0",
+        "discord.js": "^12.5.3"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "spam",
+    "license": "MIT"
+}
